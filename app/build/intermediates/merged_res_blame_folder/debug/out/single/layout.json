@@ -1,102 +1,62 @@
 [
     {
-        "merged": "C:\\Users\\maxen\\.gradle\\daemon\\8.0\\vn.edu.usth.wordpress25.app-mergeDebugResources-43:\\layout\\fragment_email_address.xml",
-        "source": "C:\\Users\\maxen\\.gradle\\daemon\\8.0\\vn.edu.usth.wordpress25.app-main-46:\\layout\\fragment_email_address.xml"
+        "merged": "vn.edu.usth.wordpress25.app-mergeDebugResources-43:/layout/fragment_notif_unread.xml",
+        "source": "vn.edu.usth.wordpress25.app-main-46:/layout/fragment_notif_unread.xml"
     },
     {
-        "merged": "C:\\Users\\maxen\\.gradle\\daemon\\8.0\\vn.edu.usth.wordpress25.app-mergeDebugResources-43:\\layout\\fragment_about.xml",
-        "source": "C:\\Users\\maxen\\.gradle\\daemon\\8.0\\vn.edu.usth.wordpress25.app-main-46:\\layout\\fragment_about.xml"
+        "merged": "vn.edu.usth.wordpress25.app-mergeDebugResources-43:/layout/fragment_notif_comments.xml",
+        "source": "vn.edu.usth.wordpress25.app-main-46:/layout/fragment_notif_comments.xml"
     },
     {
-        "merged": "C:\\Users\\maxen\\.gradle\\daemon\\8.0\\vn.edu.usth.wordpress25.app-mergeDebugResources-43:\\layout\\fragment_about_me.xml",
-        "source": "C:\\Users\\maxen\\.gradle\\daemon\\8.0\\vn.edu.usth.wordpress25.app-main-46:\\layout\\fragment_about_me.xml"
+        "merged": "vn.edu.usth.wordpress25.app-mergeDebugResources-43:/layout/fragment_myprofil.xml",
+        "source": "vn.edu.usth.wordpress25.app-main-46:/layout/fragment_myprofil.xml"
     },
     {
-        "merged": "C:\\Users\\maxen\\.gradle\\daemon\\8.0\\vn.edu.usth.wordpress25.app-mergeDebugResources-43:\\layout\\fragment_first_name.xml",
-        "source": "C:\\Users\\maxen\\.gradle\\daemon\\8.0\\vn.edu.usth.wordpress25.app-main-46:\\layout\\fragment_first_name.xml"
+        "merged": "vn.edu.usth.wordpress25.app-mergeDebugResources-43:/layout/fragment_notif_all.xml",
+        "source": "vn.edu.usth.wordpress25.app-main-46:/layout/fragment_notif_all.xml"
     },
     {
-        "merged": "C:\\Users\\maxen\\.gradle\\daemon\\8.0\\vn.edu.usth.wordpress25.app-mergeDebugResources-43:\\layout\\fragment_myprofile.xml",
-        "source": "C:\\Users\\maxen\\.gradle\\daemon\\8.0\\vn.edu.usth.wordpress25.app-main-46:\\layout\\fragment_myprofile.xml"
+        "merged": "vn.edu.usth.wordpress25.app-mergeDebugResources-43:/layout/fragment_notifications.xml",
+        "source": "vn.edu.usth.wordpress25.app-main-46:/layout/fragment_notifications.xml"
     },
     {
-        "merged": "C:\\Users\\maxen\\.gradle\\daemon\\8.0\\vn.edu.usth.wordpress25.app-mergeDebugResources-43:\\layout\\fragment_notif_follows.xml",
-        "source": "C:\\Users\\maxen\\.gradle\\daemon\\8.0\\vn.edu.usth.wordpress25.app-main-46:\\layout\\fragment_notif_follows.xml"
+        "merged": "vn.edu.usth.wordpress25.app-mergeDebugResources-43:/layout/fragment_me.xml",
+        "source": "vn.edu.usth.wordpress25.app-main-46:/layout/fragment_me.xml"
     },
     {
-        "merged": "C:\\Users\\maxen\\.gradle\\daemon\\8.0\\vn.edu.usth.wordpress25.app-mergeDebugResources-43:\\layout\\fragment_notif_likes.xml",
-        "source": "C:\\Users\\maxen\\.gradle\\daemon\\8.0\\vn.edu.usth.wordpress25.app-main-46:\\layout\\fragment_notif_likes.xml"
+        "merged": "vn.edu.usth.wordpress25.app-mergeDebugResources-43:/layout/fragment_home.xml",
+        "source": "vn.edu.usth.wordpress25.app-main-46:/layout/fragment_home.xml"
     },
     {
-        "merged": "C:\\Users\\maxen\\.gradle\\daemon\\8.0\\vn.edu.usth.wordpress25.app-mergeDebugResources-43:\\layout\\fragment_me.xml",
-        "source": "C:\\Users\\maxen\\.gradle\\daemon\\8.0\\vn.edu.usth.wordpress25.app-main-46:\\layout\\fragment_me.xml"
+        "merged": "vn.edu.usth.wordpress25.app-mergeDebugResources-43:/layout/fragment_commentsononthersites.xml",
+        "source": "vn.edu.usth.wordpress25.app-main-46:/layout/fragment_commentsononthersites.xml"
     },
     {
-        "merged": "C:\\Users\\maxen\\.gradle\\daemon\\8.0\\vn.edu.usth.wordpress25.app-mergeDebugResources-43:\\layout\\fragment_notif_all.xml",
-        "source": "C:\\Users\\maxen\\.gradle\\daemon\\8.0\\vn.edu.usth.wordpress25.app-main-46:\\layout\\fragment_notif_all.xml"
+        "merged": "vn.edu.usth.wordpress25.app-mergeDebugResources-43:/layout/fragment_account_settings.xml",
+        "source": "vn.edu.usth.wordpress25.app-main-46:/layout/fragment_account_settings.xml"
     },
     {
-        "merged": "C:\\Users\\maxen\\.gradle\\daemon\\8.0\\vn.edu.usth.wordpress25.app-mergeDebugResources-43:\\layout\\fragment_notif_unread.xml",
-        "source": "C:\\Users\\maxen\\.gradle\\daemon\\8.0\\vn.edu.usth.wordpress25.app-main-46:\\layout\\fragment_notif_unread.xml"
+        "merged": "vn.edu.usth.wordpress25.app-mergeDebugResources-43:/layout/activity_main.xml",
+        "source": "vn.edu.usth.wordpress25.app-main-46:/layout/activity_main.xml"
     },
     {
-        "merged": "vn.edu.usth.wordpress25.app-mergeDebugResources-43:/layout/fragment_web_address.xml",
-        "source": "vn.edu.usth.wordpress25.app-main-46:/layout/fragment_web_address.xml"
+        "merged": "vn.edu.usth.wordpress25.app-mergeDebugResources-43:/layout/fragment_notif_settings.xml",
+        "source": "vn.edu.usth.wordpress25.app-main-46:/layout/fragment_notif_settings.xml"
     },
     {
-        "merged": "C:\\Users\\maxen\\.gradle\\daemon\\8.0\\vn.edu.usth.wordpress25.app-mergeDebugResources-43:\\layout\\fragment_appearance.xml",
-        "source": "C:\\Users\\maxen\\.gradle\\daemon\\8.0\\vn.edu.usth.wordpress25.app-main-46:\\layout\\fragment_appearance.xml"
+        "merged": "vn.edu.usth.wordpress25.app-mergeDebugResources-43:/layout/fragment_notif_follows.xml",
+        "source": "vn.edu.usth.wordpress25.app-main-46:/layout/fragment_notif_follows.xml"
     },
     {
-        "merged": "C:\\Users\\maxen\\.gradle\\daemon\\8.0\\vn.edu.usth.wordpress25.app-mergeDebugResources-43:\\layout\\fragment_home.xml",
-        "source": "C:\\Users\\maxen\\.gradle\\daemon\\8.0\\vn.edu.usth.wordpress25.app-main-46:\\layout\\fragment_home.xml"
+        "merged": "vn.edu.usth.wordpress25.app-mergeDebugResources-43:/layout/fragment_notificationstab.xml",
+        "source": "vn.edu.usth.wordpress25.app-main-46:/layout/fragment_notificationstab.xml"
     },
     {
-        "merged": "vn.edu.usth.wordpress25.app-mergeDebugResources-43:/layout/fragment_about_me.xml",
-        "source": "vn.edu.usth.wordpress25.app-main-46:/layout/fragment_about_me.xml"
+        "merged": "vn.edu.usth.wordpress25.app-mergeDebugResources-43:/layout/fragment_dashboard.xml",
+        "source": "vn.edu.usth.wordpress25.app-main-46:/layout/fragment_dashboard.xml"
     },
     {
-        "merged": "C:\\Users\\maxen\\.gradle\\daemon\\8.0\\vn.edu.usth.wordpress25.app-mergeDebugResources-43:\\layout\\fragment_dashboard.xml",
-        "source": "C:\\Users\\maxen\\.gradle\\daemon\\8.0\\vn.edu.usth.wordpress25.app-main-46:\\layout\\fragment_dashboard.xml"
-    },
-    {
-        "merged": "C:\\Users\\maxen\\.gradle\\daemon\\8.0\\vn.edu.usth.wordpress25.app-mergeDebugResources-43:\\layout\\fragment_notif_comments.xml",
-        "source": "C:\\Users\\maxen\\.gradle\\daemon\\8.0\\vn.edu.usth.wordpress25.app-main-46:\\layout\\fragment_notif_comments.xml"
-    },
-    {
-        "merged": "C:\\Users\\maxen\\.gradle\\daemon\\8.0\\vn.edu.usth.wordpress25.app-mergeDebugResources-43:\\layout\\fragment_dialog_logout.xml",
-        "source": "C:\\Users\\maxen\\.gradle\\daemon\\8.0\\vn.edu.usth.wordpress25.app-main-46:\\layout\\fragment_dialog_logout.xml"
-    },
-    {
-        "merged": "C:\\Users\\maxen\\.gradle\\daemon\\8.0\\vn.edu.usth.wordpress25.app-mergeDebugResources-43:\\layout\\fragment_last_name.xml",
-        "source": "C:\\Users\\maxen\\.gradle\\daemon\\8.0\\vn.edu.usth.wordpress25.app-main-46:\\layout\\fragment_last_name.xml"
-    },
-    {
-        "merged": "C:\\Users\\maxen\\.gradle\\daemon\\8.0\\vn.edu.usth.wordpress25.app-mergeDebugResources-43:\\layout\\fragment_app_settings.xml",
-        "source": "C:\\Users\\maxen\\.gradle\\daemon\\8.0\\vn.edu.usth.wordpress25.app-main-46:\\layout\\fragment_app_settings.xml"
-    },
-    {
-        "merged": "C:\\Users\\maxen\\.gradle\\daemon\\8.0\\vn.edu.usth.wordpress25.app-mergeDebugResources-43:\\layout\\fragment_notifications.xml",
-        "source": "C:\\Users\\maxen\\.gradle\\daemon\\8.0\\vn.edu.usth.wordpress25.app-main-46:\\layout\\fragment_notifications.xml"
-    },
-    {
-        "merged": "C:\\Users\\maxen\\.gradle\\daemon\\8.0\\vn.edu.usth.wordpress25.app-mergeDebugResources-43:\\layout\\fragment_account_settings.xml",
-        "source": "C:\\Users\\maxen\\.gradle\\daemon\\8.0\\vn.edu.usth.wordpress25.app-main-46:\\layout\\fragment_account_settings.xml"
-    },
-    {
-        "merged": "C:\\Users\\maxen\\.gradle\\daemon\\8.0\\vn.edu.usth.wordpress25.app-mergeDebugResources-43:\\layout\\fragment_web_address.xml",
-        "source": "C:\\Users\\maxen\\.gradle\\daemon\\8.0\\vn.edu.usth.wordpress25.app-main-46:\\layout\\fragment_web_address.xml"
-    },
-    {
-        "merged": "C:\\Users\\maxen\\.gradle\\daemon\\8.0\\vn.edu.usth.wordpress25.app-mergeDebugResources-43:\\layout\\activity_main.xml",
-        "source": "C:\\Users\\maxen\\.gradle\\daemon\\8.0\\vn.edu.usth.wordpress25.app-main-46:\\layout\\activity_main.xml"
-    },
-    {
-        "merged": "C:\\Users\\maxen\\.gradle\\daemon\\8.0\\vn.edu.usth.wordpress25.app-mergeDebugResources-43:\\layout\\fragment_help.xml",
-        "source": "C:\\Users\\maxen\\.gradle\\daemon\\8.0\\vn.edu.usth.wordpress25.app-main-46:\\layout\\fragment_help.xml"
-    },
-    {
-        "merged": "C:\\Users\\maxen\\.gradle\\daemon\\8.0\\vn.edu.usth.wordpress25.app-mergeDebugResources-43:\\layout\\fragment_public_display_name.xml",
-        "source": "C:\\Users\\maxen\\.gradle\\daemon\\8.0\\vn.edu.usth.wordpress25.app-main-46:\\layout\\fragment_public_display_name.xml"
+        "merged": "vn.edu.usth.wordpress25.app-mergeDebugResources-43:/layout/fragment_notif_likes.xml",
+        "source": "vn.edu.usth.wordpress25.app-main-46:/layout/fragment_notif_likes.xml"
     }
 ]

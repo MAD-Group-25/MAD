@@ -23,40 +23,18 @@ public final class FragmentMeBinding implements ViewBinding {
   public final LinearLayout AccountSettings;
 
   @NonNull
-  public final LinearLayout clickAppSet;
-
-  @NonNull
-  public final LinearLayout clickHelp;
-
-  @NonNull
-  public final LinearLayout clickLogOut;
-
-  @NonNull
-  public final LinearLayout clickScan;
-
-  @NonNull
-  public final LinearLayout clickShare;
-
-  @NonNull
   public final LinearLayout linearPp;
 
   @NonNull
-  public final LinearLayout myProfile;
+  public final LinearLayout myprofil;
 
   private FragmentMeBinding(@NonNull ConstraintLayout rootView,
-      @NonNull LinearLayout AccountSettings, @NonNull LinearLayout clickAppSet,
-      @NonNull LinearLayout clickHelp, @NonNull LinearLayout clickLogOut,
-      @NonNull LinearLayout clickScan, @NonNull LinearLayout clickShare,
-      @NonNull LinearLayout linearPp, @NonNull LinearLayout myProfile) {
+      @NonNull LinearLayout AccountSettings, @NonNull LinearLayout linearPp,
+      @NonNull LinearLayout myprofil) {
     this.rootView = rootView;
     this.AccountSettings = AccountSettings;
-    this.clickAppSet = clickAppSet;
-    this.clickHelp = clickHelp;
-    this.clickLogOut = clickLogOut;
-    this.clickScan = clickScan;
-    this.clickShare = clickShare;
     this.linearPp = linearPp;
-    this.myProfile = myProfile;
+    this.myprofil = myprofil;
   }
 
   @Override
@@ -92,50 +70,20 @@ public final class FragmentMeBinding implements ViewBinding {
         break missingId;
       }
 
-      id = R.id.click_app_Set;
-      LinearLayout clickAppSet = ViewBindings.findChildViewById(rootView, id);
-      if (clickAppSet == null) {
-        break missingId;
-      }
-
-      id = R.id.click_help;
-      LinearLayout clickHelp = ViewBindings.findChildViewById(rootView, id);
-      if (clickHelp == null) {
-        break missingId;
-      }
-
-      id = R.id.click_log_out;
-      LinearLayout clickLogOut = ViewBindings.findChildViewById(rootView, id);
-      if (clickLogOut == null) {
-        break missingId;
-      }
-
-      id = R.id.click_scan;
-      LinearLayout clickScan = ViewBindings.findChildViewById(rootView, id);
-      if (clickScan == null) {
-        break missingId;
-      }
-
-      id = R.id.click_share;
-      LinearLayout clickShare = ViewBindings.findChildViewById(rootView, id);
-      if (clickShare == null) {
-        break missingId;
-      }
-
       id = R.id.linear_pp;
       LinearLayout linearPp = ViewBindings.findChildViewById(rootView, id);
       if (linearPp == null) {
         break missingId;
       }
 
-      id = R.id.my_profile;
-      LinearLayout myProfile = ViewBindings.findChildViewById(rootView, id);
-      if (myProfile == null) {
+      id = R.id.myprofil;
+      LinearLayout myprofil = ViewBindings.findChildViewById(rootView, id);
+      if (myprofil == null) {
         break missingId;
       }
 
-      return new FragmentMeBinding((ConstraintLayout) rootView, AccountSettings, clickAppSet,
-          clickHelp, clickLogOut, clickScan, clickShare, linearPp, myProfile);
+      return new FragmentMeBinding((ConstraintLayout) rootView, AccountSettings, linearPp,
+          myprofil);
     }
     String missingId = rootView.getResources().getResourceName(id);
     throw new NullPointerException("Missing required view with ID: ".concat(missingId));

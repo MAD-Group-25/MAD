@@ -4,7 +4,6 @@ package vn.edu.usth.wordpress25.databinding;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
-import android.widget.TextView;
 import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;
 import androidx.constraintlayout.widget.ConstraintLayout;
@@ -25,17 +24,12 @@ public final class FragmentNotificationsBinding implements ViewBinding {
   public final TabLayout tabLayout;
 
   @NonNull
-  public final TextView textNotifications;
-
-  @NonNull
   public final ViewPager viewPager;
 
   private FragmentNotificationsBinding(@NonNull ConstraintLayout rootView,
-      @NonNull TabLayout tabLayout, @NonNull TextView textNotifications,
-      @NonNull ViewPager viewPager) {
+      @NonNull TabLayout tabLayout, @NonNull ViewPager viewPager) {
     this.rootView = rootView;
     this.tabLayout = tabLayout;
-    this.textNotifications = textNotifications;
     this.viewPager = viewPager;
   }
 
@@ -72,20 +66,13 @@ public final class FragmentNotificationsBinding implements ViewBinding {
         break missingId;
       }
 
-      id = R.id.text_notifications;
-      TextView textNotifications = ViewBindings.findChildViewById(rootView, id);
-      if (textNotifications == null) {
-        break missingId;
-      }
-
       id = R.id.viewPager;
       ViewPager viewPager = ViewBindings.findChildViewById(rootView, id);
       if (viewPager == null) {
         break missingId;
       }
 
-      return new FragmentNotificationsBinding((ConstraintLayout) rootView, tabLayout,
-          textNotifications, viewPager);
+      return new FragmentNotificationsBinding((ConstraintLayout) rootView, tabLayout, viewPager);
     }
     String missingId = rootView.getResources().getResourceName(id);
     throw new NullPointerException("Missing required view with ID: ".concat(missingId));

@@ -47,7 +47,12 @@ dependencies {
             because("kotlin-stdlib-jdk8 is now a part of kotlin-stdlib")
         }
     }
-
+    implementation ("androidx.appcompat:appcompat:1.3.1")
+    implementation ("androidx.fragment:fragment:1.4.0")
+    implementation ("com.google.android.material:material:1.4.0")
+    implementation ("androidx.lifecycle:lifecycle-viewmodel:2.3.1")
+    implementation ("androidx.lifecycle:lifecycle-livedata:2.3.1")
+    implementation ("androidx.viewpager:viewpager:1.0.0")
     implementation("androidx.appcompat:appcompat:1.6.1")
     implementation("com.google.android.material:material:1.9.0")
     implementation("androidx.constraintlayout:constraintlayout:2.1.4")
