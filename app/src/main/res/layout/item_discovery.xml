@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:background="@color/white"
+    android:layout_margin="5dp"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:padding="10dp">
+
+    <LinearLayout
+        android:id="@+id/ll"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@drawable/backgr_button"
+            android:padding="5dp"
+            android:text="art"
+            android:textColor="@color/white" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="10dp"
+            android:background="@drawable/backgr_button"
+            android:padding="5dp"
+            android:text="autolia"
+            android:textColor="@color/white" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="10dp"
+            android:background="@drawable/backgr_button"
+            android:padding="5dp"
+            android:text="+5"
+            android:textColor="@color/white" />
+    </LinearLayout>
+
+    <TextView
+        app:layout_constraintStart_toStartOf="parent"
+        android:layout_marginTop="10dp"
+        android:id="@+id/tv_authod"
+        android:textStyle="bold"
+        android:layout_marginStart="10dp"
+        app:layout_constraintTop_toBottomOf="@+id/ll"
+        android:text="a.mermaid'spen_"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"/>
+
+    <TextView
+        app:layout_constraintStart_toStartOf="parent"
+        android:id="@+id/tv_authod_address"
+        android:layout_marginStart="15dp"
+        android:textSize="10sp"
+        app:layout_constraintTop_toBottomOf="@+id/tv_authod"
+        android:text="mermaid'spen_ 5 ngay truoc"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"/>
+
+    <TextView
+        android:id="@+id/tv_title"
+        android:layout_marginTop="10dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Autolalia"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/tv_authod_address" />
+
+    <ImageView
+        android:id="@+id/img_three_dot"
+        android:src="@drawable/baseline_more_vert_24"
+        app:layout_constraintTop_toBottomOf="@+id/tv_authod"
+        app:layout_constraintEnd_toEndOf="parent"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"/>
+
+    <TextView
+        android:id="@+id/tv_content"
+        android:layout_marginTop="5dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Description After building for release and sideloading the APK onto a device a button which changes IsEnabled state does not have it's background color change with the state even though that is con."
+        android:textSize="10sp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/tv_title" />
+
+    <ImageView
+        android:layout_marginTop="10dp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/tv_content"
+        android:id="@+id/img_favorite"
+        android:src="@drawable/baseline_bookmark_border_24"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"/>
+
+    <ImageView
+        android:layout_marginTop="10dp"
+        app:layout_constraintEnd_toStartOf="@+id/ll_comment"
+        app:layout_constraintStart_toEndOf="@+id/img_favorite"
+        app:layout_constraintTop_toBottomOf="@+id/tv_content"
+        android:id="@+id/img_share"
+        android:src="@drawable/baseline_repeat_24"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"/>
+
+    <LinearLayout
+        android:layout_marginTop="10dp"
+        android:id="@+id/ll_comment"
+        app:layout_constraintEnd_toEndOf="@+id/ll_star"
+        app:layout_constraintStart_toEndOf="@+id/img_share"
+        app:layout_constraintTop_toBottomOf="@+id/tv_content"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+
+        <ImageView
+            android:src="@drawable/baseline_message_24"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"/>
+        <TextView
+            android:text="26"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"/>
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_marginTop="10dp"
+        android:id="@+id/ll_star"
+        app:layout_constraintStart_toEndOf="@+id/ll_comment"
+        app:layout_constraintTop_toBottomOf="@+id/tv_content"
+        app:layout_constraintEnd_toEndOf="parent"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+
+        <ImageView
+            android:src="@drawable/baseline_star_24"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"/>
+        <TextView
+            android:text="153"
+            android:textSize="15sp"
+            android:textColor="#4CAF50"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"/>
+    </LinearLayout>
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>

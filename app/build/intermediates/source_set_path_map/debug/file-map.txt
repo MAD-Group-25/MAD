@@ -1,0 +1,47 @@
+vn.edu.usth.wordpress25.app-core-1.9.0-0 C:\Users\Admin\.gradle\caches\transforms-3\03e02ba552f6e6339975a0ca3911b6f5\transformed\core-1.9.0\res
+vn.edu.usth.wordpress25.app-lifecycle-livedata-core-2.6.2-1 C:\Users\Admin\.gradle\caches\transforms-3\06094057920ac6c48dc6c6d60c4b4a2a\transformed\lifecycle-livedata-core-2.6.2\res
+vn.edu.usth.wordpress25.app-material-1.9.0-2 C:\Users\Admin\.gradle\caches\transforms-3\0d521d3076844ad117d1e97dfab2d7ec\transformed\material-1.9.0\res
+vn.edu.usth.wordpress25.app-window-1.0.0-3 C:\Users\Admin\.gradle\caches\transforms-3\0e61e8aca72ab23172a2579a03d175de\transformed\window-1.0.0\res
+vn.edu.usth.wordpress25.app-emoji2-views-helper-1.2.0-4 C:\Users\Admin\.gradle\caches\transforms-3\10d984bf3d7989c006e37b72d9e9ecdd\transformed\emoji2-views-helper-1.2.0\res
+vn.edu.usth.wordpress25.app-core-ktx-1.9.0-5 C:\Users\Admin\.gradle\caches\transforms-3\23d689c075c6e678a79a63601d83d0a7\transformed\core-ktx-1.9.0\res
+vn.edu.usth.wordpress25.app-transition-1.4.1-6 C:\Users\Admin\.gradle\caches\transforms-3\2770ac86163e8024a0b885f421f4300f\transformed\transition-1.4.1\res
+vn.edu.usth.wordpress25.app-drawerlayout-1.1.1-7 C:\Users\Admin\.gradle\caches\transforms-3\287c31fa900184e0c71bed011af9fe5f\transformed\drawerlayout-1.1.1\res
+vn.edu.usth.wordpress25.app-recyclerview-1.1.0-8 C:\Users\Admin\.gradle\caches\transforms-3\2cabd48acd9381f1441543f3b2b2a16f\transformed\recyclerview-1.1.0\res
+vn.edu.usth.wordpress25.app-annotation-experimental-1.3.0-9 C:\Users\Admin\.gradle\caches\transforms-3\2d9e845525b701987980c6cf26d356f3\transformed\annotation-experimental-1.3.0\res
+vn.edu.usth.wordpress25.app-activity-ktx-1.6.0-10 C:\Users\Admin\.gradle\caches\transforms-3\2f9c251a8b2827271179a65e10a9c174\transformed\activity-ktx-1.6.0\res
+vn.edu.usth.wordpress25.app-lifecycle-viewmodel-2.6.2-11 C:\Users\Admin\.gradle\caches\transforms-3\378cb017c7781ab2b0797f83fb4009f4\transformed\lifecycle-viewmodel-2.6.2\res
+vn.edu.usth.wordpress25.app-lifecycle-runtime-2.6.2-12 C:\Users\Admin\.gradle\caches\transforms-3\3cb552da735f96c25318d235ac6426c1\transformed\lifecycle-runtime-2.6.2\res
+vn.edu.usth.wordpress25.app-emoji2-1.2.0-13 C:\Users\Admin\.gradle\caches\transforms-3\47848048e0ae0dccef812dfdd0f4f224\transformed\emoji2-1.2.0\res
+vn.edu.usth.wordpress25.app-navigation-common-2.5.3-14 C:\Users\Admin\.gradle\caches\transforms-3\488d946c68ce12a69e5b93db90a53492\transformed\navigation-common-2.5.3\res
+vn.edu.usth.wordpress25.app-savedstate-1.2.1-15 C:\Users\Admin\.gradle\caches\transforms-3\58e6237563c5e418a3204041f523cf85\transformed\savedstate-1.2.1\res
+vn.edu.usth.wordpress25.app-activity-1.6.0-16 C:\Users\Admin\.gradle\caches\transforms-3\5f3d9175ae734366df0c0605bda18078\transformed\activity-1.6.0\res
+vn.edu.usth.wordpress25.app-navigation-fragment-2.5.3-17 C:\Users\Admin\.gradle\caches\transforms-3\69e463db2748eb009a15c80a4f20b8be\transformed\navigation-fragment-2.5.3\res
+vn.edu.usth.wordpress25.app-lifecycle-livedata-core-ktx-2.6.2-18 C:\Users\Admin\.gradle\caches\transforms-3\6dda80a1b124c6e96992ddfc8ef15f3f\transformed\lifecycle-livedata-core-ktx-2.6.2\res
+vn.edu.usth.wordpress25.app-core-runtime-2.2.0-19 C:\Users\Admin\.gradle\caches\transforms-3\6e7a73fc67c9fcc059cf7dc4b00c138e\transformed\core-runtime-2.2.0\res
+vn.edu.usth.wordpress25.app-slidingpanelayout-1.2.0-20 C:\Users\Admin\.gradle\caches\transforms-3\701f7e902efd0769f30b1c35c952e51e\transformed\slidingpanelayout-1.2.0\res
+vn.edu.usth.wordpress25.app-appcompat-resources-1.6.1-21 C:\Users\Admin\.gradle\caches\transforms-3\772f2ebf03086c8809e15df489c5f47f\transformed\appcompat-resources-1.6.1\res
+vn.edu.usth.wordpress25.app-navigation-ui-2.5.3-22 C:\Users\Admin\.gradle\caches\transforms-3\7efd79736182cd0bea4a850ac9a8aa01\transformed\navigation-ui-2.5.3\res
+vn.edu.usth.wordpress25.app-viewpager2-1.0.0-23 C:\Users\Admin\.gradle\caches\transforms-3\842cc5675ee04bea022b92300769f363\transformed\viewpager2-1.0.0\res
+vn.edu.usth.wordpress25.app-lifecycle-viewmodel-ktx-2.6.2-24 C:\Users\Admin\.gradle\caches\transforms-3\8bfcb1a0a057e8af663c8aa4267becf3\transformed\lifecycle-viewmodel-ktx-2.6.2\res
+vn.edu.usth.wordpress25.app-fragment-ktx-1.5.4-25 C:\Users\Admin\.gradle\caches\transforms-3\98e89ecbe16086ec50382e5c12f61193\transformed\fragment-ktx-1.5.4\res
+vn.edu.usth.wordpress25.app-appcompat-1.6.1-26 C:\Users\Admin\.gradle\caches\transforms-3\9fa582fcb8ffd7596f215cb6f761d75b\transformed\appcompat-1.6.1\res
+vn.edu.usth.wordpress25.app-lifecycle-runtime-ktx-2.6.2-27 C:\Users\Admin\.gradle\caches\transforms-3\b870a8c94caf901cdeee060d90b67bd7\transformed\lifecycle-runtime-ktx-2.6.2\res
+vn.edu.usth.wordpress25.app-savedstate-ktx-1.2.1-28 C:\Users\Admin\.gradle\caches\transforms-3\bd0d626447f8b93543af252202c09e2e\transformed\savedstate-ktx-1.2.1\res
+vn.edu.usth.wordpress25.app-lifecycle-viewmodel-savedstate-2.6.2-29 C:\Users\Admin\.gradle\caches\transforms-3\c43e99c998a62877c123cfc1826d2f8d\transformed\lifecycle-viewmodel-savedstate-2.6.2\res
+vn.edu.usth.wordpress25.app-startup-runtime-1.1.1-30 C:\Users\Admin\.gradle\caches\transforms-3\c5d3128da2bde7d7e8436963ea1c9e57\transformed\startup-runtime-1.1.1\res
+vn.edu.usth.wordpress25.app-constraintlayout-2.1.4-31 C:\Users\Admin\.gradle\caches\transforms-3\c755e3361e65ca69b2642a2b613a5fb1\transformed\constraintlayout-2.1.4\res
+vn.edu.usth.wordpress25.app-coordinatorlayout-1.1.0-32 C:\Users\Admin\.gradle\caches\transforms-3\cb4f7bc7a926e14671433b3f9e85117e\transformed\coordinatorlayout-1.1.0\res
+vn.edu.usth.wordpress25.app-fragment-1.5.4-33 C:\Users\Admin\.gradle\caches\transforms-3\d14d8ee0f837793e6c2a7f987a0aa2a7\transformed\fragment-1.5.4\res
+vn.edu.usth.wordpress25.app-lifecycle-livedata-2.6.2-34 C:\Users\Admin\.gradle\caches\transforms-3\d2bff7145ede25e989504f333eca9a35\transformed\lifecycle-livedata-2.6.2\res
+vn.edu.usth.wordpress25.app-profileinstaller-1.3.0-35 C:\Users\Admin\.gradle\caches\transforms-3\d3fb738c5845c5c667188a93dfb07c5f\transformed\profileinstaller-1.3.0\res
+vn.edu.usth.wordpress25.app-navigation-runtime-2.5.3-36 C:\Users\Admin\.gradle\caches\transforms-3\e6b7f9606246244b603bc1e35d3baaf2\transformed\navigation-runtime-2.5.3\res
+vn.edu.usth.wordpress25.app-lifecycle-livedata-ktx-2.6.2-37 C:\Users\Admin\.gradle\caches\transforms-3\f0ea253ac46240352af8c1e3273e5eaf\transformed\lifecycle-livedata-ktx-2.6.2\res
+vn.edu.usth.wordpress25.app-lifecycle-process-2.6.2-38 C:\Users\Admin\.gradle\caches\transforms-3\f6d5a637ac1de8bb787bbf600f6a9d8e\transformed\lifecycle-process-2.6.2\res
+vn.edu.usth.wordpress25.app-cardview-1.0.0-39 C:\Users\Admin\.gradle\caches\transforms-3\f76cead81e42e4ec295050d88e626086\transformed\cardview-1.0.0\res
+vn.edu.usth.wordpress25.app-pngs-40 C:\Users\Admin\Downloads\MAD-main (4)\MAD-main\app\build\generated\res\pngs\debug
+vn.edu.usth.wordpress25.app-resValues-41 C:\Users\Admin\Downloads\MAD-main (4)\MAD-main\app\build\generated\res\resValues\debug
+vn.edu.usth.wordpress25.app-packageDebugResources-42 C:\Users\Admin\Downloads\MAD-main (4)\MAD-main\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+vn.edu.usth.wordpress25.app-packageDebugResources-43 C:\Users\Admin\Downloads\MAD-main (4)\MAD-main\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+vn.edu.usth.wordpress25.app-merged_res-44 C:\Users\Admin\Downloads\MAD-main (4)\MAD-main\app\build\intermediates\merged_res\debug
+vn.edu.usth.wordpress25.app-debug-45 C:\Users\Admin\Downloads\MAD-main (4)\MAD-main\app\src\debug\res
+vn.edu.usth.wordpress25.app-main-46 C:\Users\Admin\Downloads\MAD-main (4)\MAD-main\app\src\main\res

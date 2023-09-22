@@ -1,0 +1,310 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".ui.me.MeFragment">
+
+    <LinearLayout
+        android:id="@+id/linear_pp"
+        android:layout_width="match_parent"
+        android:layout_height="96dp"
+        android:orientation="horizontal"
+        app:layout_constraintTop_toTopOf="parent">
+
+        <ImageView
+            android:layout_width="@dimen/row48"
+            android:layout_height="@dimen/row48"
+            android:layout_margin="24dp"
+            android:src="@drawable/profil_picture"></ImageView>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical"
+            android:weightSum="2">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:paddingTop="19dp"
+                android:text="Name"
+                android:textSize="24dp"></TextView>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:text="Surname"
+                android:textSize="18dp"></TextView>
+        </LinearLayout>
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        app:layout_constraintTop_toBottomOf="@+id/linear_pp">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/row48"
+            android:clickable="true"
+            android:id="@+id/myprofil"
+            android:orientation="horizontal">
+
+            <RelativeLayout
+                android:layout_width="96dp"
+                android:layout_height="match_parent"
+                android:orientation="vertical">
+
+                <ImageView
+                    android:layout_width="24dp"
+                    android:layout_height="24dp"
+                    android:layout_centerInParent="true"
+                    android:src="@drawable/profil" />
+            </RelativeLayout>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:gravity="center_vertical"
+                android:text="My profil"
+                android:textSize="18dp" />
+
+        </LinearLayout>
+
+        <RelativeLayout
+            android:layout_width="380dp"
+            android:layout_height="2dp"
+            android:background="#606C6C6C"
+            android:layout_gravity="center_horizontal"/>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/row48"
+            android:id="@+id/AccountSettings"
+            android:orientation="horizontal">
+
+            <RelativeLayout
+                android:layout_width="96dp"
+                android:layout_height="match_parent"
+                android:orientation="vertical">
+
+                <ImageView
+                    android:layout_width="24dp"
+                    android:layout_height="24dp"
+                    android:layout_centerInParent="true"
+                    android:src="@drawable/settings" />
+            </RelativeLayout>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:gravity="center_vertical"
+                android:text="Account Settings"
+                android:textSize="18dp" />
+        </LinearLayout>
+
+        <RelativeLayout
+            android:layout_width="380dp"
+            android:layout_height="2dp"
+            android:background="#606C6C6C"
+            android:layout_gravity="center_horizontal"/>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/row48"
+            android:clickable="true"
+            android:orientation="horizontal">
+
+            <RelativeLayout
+                android:layout_width="96dp"
+                android:layout_height="match_parent"
+                android:orientation="vertical">
+
+                <ImageView
+                    android:layout_width="24dp"
+                    android:layout_height="24dp"
+                    android:layout_centerInParent="true"
+                    android:src="@drawable/scan" />
+            </RelativeLayout>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:gravity="center_vertical"
+                android:text="Scan Login Code"
+                android:textSize="18dp" />
+        </LinearLayout>
+
+        <RelativeLayout
+            android:layout_width="380dp"
+            android:layout_height="2dp"
+            android:background="#606C6C6C"
+            android:layout_gravity="center_horizontal"/>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/row48"
+            android:clickable="true"
+            android:orientation="horizontal">
+
+            <RelativeLayout
+                android:layout_width="96dp"
+                android:layout_height="match_parent"
+                android:orientation="vertical">
+
+                <ImageView
+                    android:layout_width="24dp"
+                    android:layout_height="24dp"
+                    android:layout_centerInParent="true"
+                    android:src="@drawable/smartphone" />
+            </RelativeLayout>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:gravity="center_vertical"
+                android:text="App Settings"
+                android:textSize="18dp" />
+        </LinearLayout>
+
+        <RelativeLayout
+            android:layout_width="380dp"
+            android:layout_height="2dp"
+            android:background="#606C6C6C"
+            android:layout_gravity="center_horizontal"/>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/row48"
+            android:clickable="true"
+            android:orientation="horizontal">
+
+            <RelativeLayout
+                android:layout_width="96dp"
+                android:layout_height="match_parent"
+                android:orientation="vertical">
+
+                <ImageView
+                    android:layout_width="24dp"
+                    android:layout_height="24dp"
+                    android:layout_centerInParent="true"
+                    android:src="@drawable/help" />
+            </RelativeLayout>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:gravity="center_vertical"
+                android:text="Help"
+                android:textSize="18dp" />
+
+        </LinearLayout>
+
+        <RelativeLayout
+            android:layout_width="380dp"
+            android:layout_height="2dp"
+            android:background="#606C6C6C"
+            android:layout_gravity="center_horizontal"/>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/row48"
+            android:orientation="horizontal">
+
+            <RelativeLayout
+                android:layout_width="96dp"
+                android:layout_height="match_parent"
+                android:orientation="vertical">
+
+                <ImageView
+                    android:layout_width="24dp"
+                    android:layout_height="24dp"
+                    android:layout_centerInParent="true"
+                    android:src="@drawable/share" />
+            </RelativeLayout>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:gravity="center_vertical"
+                android:text="Share JetPack with a friend"
+                android:textSize="18dp" />
+        </LinearLayout>
+
+        <RelativeLayout
+            android:layout_width="380dp"
+            android:layout_height="2dp"
+            android:background="#606C6C6C"
+            android:layout_gravity="center_horizontal"/>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/row48"
+            android:clickable="true"
+            android:orientation="horizontal">
+
+            <RelativeLayout
+                android:layout_width="96dp"
+                android:layout_height="match_parent"
+                android:orientation="vertical">
+
+                <ImageView
+                    android:layout_width="24dp"
+                    android:layout_height="24dp"
+                    android:layout_centerInParent="true"
+                    android:src="@drawable/about" />
+            </RelativeLayout>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:gravity="center_vertical"
+                android:text="About Jetpack"
+                android:textSize="18dp" />
+        </LinearLayout>
+
+        <RelativeLayout
+            android:layout_width="380dp"
+            android:layout_height="2dp"
+            android:background="#606C6C6C"
+            android:layout_gravity="center_horizontal"/>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/row48"
+            android:clickable="true"
+            android:orientation="horizontal">
+
+            <RelativeLayout
+                android:layout_width="96dp"
+                android:layout_height="match_parent"
+                android:orientation="vertical">
+
+                <ImageView
+                    android:layout_width="24dp"
+                    android:layout_height="24dp"
+                    android:layout_centerInParent="true"
+                    android:src="@drawable/log_out" />
+            </RelativeLayout>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:gravity="center_vertical"
+                android:text="Log out of Jetpack"
+                android:textSize="18dp" />
+        </LinearLayout>
+
+        <RelativeLayout
+            android:layout_width="380dp"
+            android:layout_height="1dp"
+            android:background="#606C6C6C"
+            android:layout_gravity="center_horizontal"/>
+
+    </LinearLayout>
+</androidx.constraintlayout.widget.ConstraintLayout>
